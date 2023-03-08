@@ -2,7 +2,6 @@
 
 Desarrollador web Front-End
 
-Hace más de dos años comencé a estudiar desarrollo web y al día de hoy que nunca dejé de aprender sobre este hermoso y genial mundo de la programación.
 
 ```javascript
 const diego = {
